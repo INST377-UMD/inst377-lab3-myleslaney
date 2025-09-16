@@ -1,0 +1,84 @@
+body {
+  background-color: #ffd9ba; 
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+}
+
+
+p {
+  color: rgb(255, 255, 255);
+}
+
+#HF {
+  width: 1600px;
+  height: 75px;
+  border: 10px solid rgb(56, 56, 56);
+  padding: 25px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 25px;
+  
+}
+
+#bar {
+  width: 98%;
+  height: 25px;
+  margin: auto;
+  color: rgb(255, 255, 255);
+  font-size: larger;
+  margin-bottom: 25px;
+  background-color: blue;
+  
+}
+
+
+.left {
+  width: 65%;
+  height: 200px;
+  color: rgb(0, 0, 0);
+  font-size: larger;
+  border-radius: 30px;
+  display: inline-block;
+  padding: 1%;
+}
+
+
+.right {
+  width: 450px;
+  height: 200px;
+  color: rgb(0, 0, 0);
+  font-size: larger;
+  border-radius: 30px;
+  margin-left: 1175px;
+  text-align: center;
+  background-color: aqua;
+  display: inline-block;
+  padding: 1%;
+  position: relative;
+  top: -235px;
+}
+
+.right:hover {
+        background-color: rgb(68, 255, 0);
+    }
+
+.linkone:hover {
+  color: rgb(0, 255, 26);
+}
+
+.linktwo:hover {
+  color: rgb(0, 255, 42);
+}
+
+.linkthree:hover {
+  color: rgb(0, 255, 26);
+}
+input[type="text"]:focus {
+    width: 300px; 
+}
+
+body {
+    font-family: "Arial", sans-serif;
+}
